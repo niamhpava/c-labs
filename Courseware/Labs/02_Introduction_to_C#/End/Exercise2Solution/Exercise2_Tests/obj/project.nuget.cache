@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zAc9HuM6FcHFtf587o9I9ORsAjJoHFkzh4QW0pfqwqYEYqmOo2TZ7z8W85pmaRJ3btnOR1KF6sc2tYTUEoHz4w==",
+  "dgSpecHash": "stJXKYaKATWfqLIO9KfgFE9x7suQbVWTC0vmQFq0iqYqUQ95O6aIz4XH2UP+k1I0vhH3akCEvpNz+CliNEupTw==",
   "success": true,
-  "projectFilePath": "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

@@ -6127,11 +6127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
       "projectName": "Exercise2_Tests",
-      "projectPath": "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\Exercise2_Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\Exercise2_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6153,8 +6153,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\MathsLibrary\\MathsLibrary.csproj": {
-              "projectPath": "C:\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\MathsLibrary\\MathsLibrary.csproj"
+            "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\MathsLibrary\\MathsLibrary.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\c-labs\\Courseware\\Labs\\02_Introduction_to_C#\\End\\Exercise2Solution\\MathsLibrary\\MathsLibrary.csproj"
             }
           }
         }

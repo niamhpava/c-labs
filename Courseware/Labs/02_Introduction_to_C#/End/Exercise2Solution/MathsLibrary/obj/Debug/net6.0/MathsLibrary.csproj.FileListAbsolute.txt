@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\bin\Debug\net6.0\MathsLibrary.deps.json
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\bin\Debug\net6.0\MathsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\bin\Debug\net6.0\MathsLibrary.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\refint\MathsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\MathsLibrary.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\02_Introduction_to_C#\End\Exercise2Solution\MathsLibrary\obj\Debug\net6.0\ref\MathsLibrary.dll
