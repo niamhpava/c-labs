@@ -1,0 +1,12 @@
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\bin\Debug\net6.0\LendingLibrary.deps.json
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\bin\Debug\net6.0\LendingLibrary.dll
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\bin\Debug\net6.0\LendingLibrary.pdb
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.csproj.AssemblyReference.cache
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.AssemblyInfoInputs.cache
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.AssemblyInfo.cs
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.csproj.CoreCompileInputs.cache
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.dll
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\refint\LendingLibrary.dll
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\LendingLibrary.pdb
+C:\Courseware\Labs\08_Inheritance_and_Abstract_Classes\End2\LendingLibrary\LendingLibrary\obj\Debug\net6.0\ref\LendingLibrary.dll
