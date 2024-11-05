@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\bin\Debug\net7.0\Averages.exe
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\bin\Debug\net7.0\Averages.deps.json
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\bin\Debug\net7.0\Averages.runtimeconfig.json
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\bin\Debug\net7.0\Averages.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\bin\Debug\net7.0\Averages.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.AssemblyInfo.cs
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\refint\Averages.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\Averages.genruntimeconfig.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\05_Loops_and_Collections\Begin\Averages\Averages\obj\Debug\net7.0\ref\Averages.dll
