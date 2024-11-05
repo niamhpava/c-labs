@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\bin\Debug\net7.0\MethodsLibrary.deps.json
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\bin\Debug\net7.0\MethodsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\bin\Debug\net7.0\MethodsLibrary.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\refint\MethodsLibrary.dll
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\MethodsLibrary.pdb
+C:\Users\Admin\source\repos\c-labs\Courseware\Labs\06_Methods\MethodsLibrary\MethodsLibrary\obj\Debug\net7.0\ref\MethodsLibrary.dll
