@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21282579-3A88-4959-B956-D0CF00CE51A3}|ZooClient\\ZooClient.csproj|c:\\temp\\zoo\\zooclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21282579-3A88-4959-B956-D0CF00CE51A3}|ZooClient\\ZooClient.csproj|solutionrelative:zooclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F710F70C-B06B-4041-8101-A33419419207}|ZooTests\\ZooTests.csproj|c:\\temp\\zoo\\zootests\\zootests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F710F70C-B06B-4041-8101-A33419419207}|ZooTests\\ZooTests.csproj|solutionrelative:zootests\\zootests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6068D5ED-1A5F-4433-9025-EABCEFC9D65A}|Zoo\\Zoo.csproj|c:\\temp\\zoo\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6068D5ED-1A5F-4433-9025-EABCEFC9D65A}|Zoo\\Zoo.csproj|solutionrelative:zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6068D5ED-1A5F-4433-9025-EABCEFC9D65A}|Zoo\\Zoo.csproj|c:\\temp\\zoo\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6068D5ED-1A5F-4433-9025-EABCEFC9D65A}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F710F70C-B06B-4041-8101-A33419419207}|ZooTests\\ZooTests.csproj|c:\\temp\\zoo\\zootests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F710F70C-B06B-4041-8101-A33419419207}|ZooTests\\ZooTests.csproj|solutionrelative:zootests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Temp\\Zoo\\Zoo\\Dog.cs",
+              "RelativeDocumentMoniker": "Zoo\\Dog.cs",
+              "ToolTip": "C:\\Temp\\Zoo\\Zoo\\Dog.cs",
+              "RelativeToolTip": "Zoo\\Dog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:27:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooTests.csproj",
+              "DocumentMoniker": "C:\\Temp\\Zoo\\ZooTests\\ZooTests.csproj",
+              "RelativeDocumentMoniker": "ZooTests\\ZooTests.csproj",
+              "ToolTip": "C:\\Temp\\Zoo\\ZooTests\\ZooTests.csproj",
+              "RelativeToolTip": "ZooTests\\ZooTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T11:29:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Temp\\Zoo\\ZooTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ZooTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Temp\\Zoo\\ZooTests\\UnitTest1.cs",
+              "RelativeToolTip": "ZooTests\\UnitTest1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:23:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Temp\\Zoo\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "C:\\Temp\\Zoo\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:30:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Zoo\\ZooClient\\Program.cs",
+              "RelativeDocumentMoniker": "ZooClient\\Program.cs",
+              "ToolTip": "C:\\Temp\\Zoo\\ZooClient\\Program.cs",
+              "RelativeToolTip": "ZooClient\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:35.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
